@@ -1,12 +1,3 @@
-Name: Pappula Chandana Siva Priyanka
-ROll No: 2024202060
-
-//2024201060_A1
---------------------------
-This is a folder with my roll numeber underscore A1 stands for 1st Assignment.This folder contains 2 cpp codes namely 2024201060_A1_Q1 -->code for 1st qn in assignment, 2024201060_A1_Q2 -->code for 2nd qn in assignment
-
-//2024201060_A1_Q1
---------------------------
 This code is used reverse file based on the input value "flag"
 if flag==0
     the code reverses the input file end to end
@@ -44,7 +35,7 @@ Progress bar:
 Compute the current extent of file read and print progress dynamically on the screen
 
 
-//2024201060_A1_Q2
+//Check whether files are reverse of each other or not
 --------------------------
 This code is used to check whether two files are reverse of each other nor not and to check the permissions of given direcotory and new and old files.
 
